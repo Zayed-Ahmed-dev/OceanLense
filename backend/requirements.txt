@@ -1,0 +1,28 @@
+# Core numerics
+numpy
+scipy
+
+# I/O dataset oceanografici / atmosferici
+xarray
+zarr
+gcsfs
+netCDF4
+cdsapi
+copernicusmarine
+argopy
+
+# Machine learning
+tensorflow
+tf-keras
+tensorflow-probability
+scikit-learn
+
+# Visualizzazione (infer.py apre una finestra di confronto AI/GLORYS/Argo)
+matplotlib
+
+# Opzionale: conversione pressione->profondita' TEOS-10 (extract_argo_profile)
+# gsw
+
+# API
+fastapi
+uvicorn[standard]
